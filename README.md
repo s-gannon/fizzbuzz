@@ -1,5 +1,5 @@
 # FizzBuzz
-The classic children's game of FizzBuzz implemented in Python3
+The classic children's game (and interview question) FizzBuzz
 
 # How it works
 
